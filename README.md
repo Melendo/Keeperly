@@ -108,7 +108,7 @@ Si deseas contribuir al desarrollo de este proyecto, por favor sigue los siguien
 ## Licencia y Créditos
 
 ### Créditos y Agradecimientos
-- Desarrollado por [Melendo](https://github.com/Melendo), [BeaBueno](https://github.com/beabuenodev) e [Iván Alcalde](https://github.com/IAlcCamDev).
+- Desarrollado por [Melendo](https://github.com/Melendo), [BeaBueno](https://github.com/beabuenodev), [Iván Alcalde](https://github.com/IAlcCamDev), [Amaia](https://github.com/amaiaech) y [Gonzalo](https://github.com/gonzaloasecas).
 - Creado en el marco académico de la Facultad de Informática, Universidad Complutense de Madrid (UCM).
 
 ---
